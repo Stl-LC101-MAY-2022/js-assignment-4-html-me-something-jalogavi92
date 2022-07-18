@@ -1,3 +1,15 @@
+.body{
+    margin: 8px;
+    display: block;
+    
+}
+
+#mainHeading{
+    color: red;
+}
+.funParagraph{
+    color: green;
+}
 .center {
     background-image: none;
     display: block;
@@ -6,7 +18,7 @@
     width: 25%;
   }
 
-  
+
 .button {
     background-color: #4CAF50; /* Green */
     border: none;
@@ -58,13 +70,13 @@ ul{
     padding-right:30px;
 }
 article {
-    background-color: #020208;
+    background-color: black;
     text-align: center;
 }
 
 
 .contact-container {
-    /* background-color: #e6e6e6; */
+     background-color:rgb(243, 252, 248);
     display: flex;
     width: 100%;
     height: 400px;
