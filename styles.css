@@ -7,9 +7,7 @@
 #mainHeading{
     color: red;
 }
-.funParagraph{
-    color: green;
-}
+
 .center {
     background-image: none;
     display: block;
@@ -104,3 +102,6 @@ footer {
     text-align: center;
 }
 
+.funParagraph{
+    color: green;
+}
